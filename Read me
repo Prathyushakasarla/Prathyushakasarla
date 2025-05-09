@@ -1,0 +1,68 @@
+Here's the README content in plain text format for easy copying to a .txt file:
+
+---
+# My Web Development Portfolio
+A showcase of HTML & CSS projects from my learning journey
+
+---
+
+## Project List
+
+### 1. Personal Portfolio Website
+Description: Responsive personal portfolio featuring projects, skills, and contact form
+Tech Used:
+- Semantic HTML5
+- CSS Flexbox & Grid
+- Mobile-first design
+- CSS animations
+Live Demo: View Online (https://username.github.io)
+
+### 2. Restaurant Website
+Description: Complete restaurant landing page with menu and reservation section
+Features:
+- Interactive food gallery
+- Responsive navigation
+- Contact form validation
+Code: /restaurant-project
+
+### 3. E-Commerce Product Card
+Description: Modern product display component with hover effects
+Skills Demonstrated:
+- CSS transitions
+- Box shadow effects
+- Responsive pricing layout
+
+---
+
+## How to View Projects
+1. Clone repository:
+   git clone https://github.com/username/html-css-projects.git
+2. Open project folder and launch index.html
+
+---
+
+## Skills Developed
+✔ Semantic HTML structure
+✔ Advanced CSS styling
+✔ Responsive web design
+✔ GitHub Pages deployment
+✔ Cross-browser compatibility
+
+---
+
+## Contact Me
+Email: sarithacanada@gmailcom
+
+
+---
+
+Last Updated: Month 2023
+
+All projects are open-source. Feel free to explore the code!
+
+---
+
+### Want to Contribute?
+1. Fork this repository
+2. Create your feature branch
+3. Submit a pull request
